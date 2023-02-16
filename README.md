@@ -143,13 +143,13 @@ TEST DIGIBYTE SEEDER
 
 To verify that your DigiByte Seeder is setup correctly, open a web browser and visit:
 
-[https://www.whatsmydns.net/#A/](https://www.whatsmydns.net/#A/)
+[https://www.whatsmydns.net/#NS/](https://www.whatsmydns.net/#NS/)
 
 Enter the domain you chose for your seeder. You should see a list of IP addresses returned for each location.
 
 For an example of what you should be seeing, look at the results for seed.digibyte.org here:
 
-[https://www.whatsmydns.net/#A/seed.digibyte.org](https://www.whatsmydns.net/#A/seed.digibyte.org)
+[https://www.whatsmydns.net/#NS/seed.digibyte.org](https://www.whatsmydns.net/#NS/seed.digibyte.org)
 
 TROUBLESHOOTING
 --------------
